@@ -1,0 +1,16 @@
+<resources>
+    <!-- Background Color for Main Areas-->
+    <color name="black">#0A0A0A</color>
+
+    <!-- Text and Primary Elements-->
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Color-->
+    <color name="blue">#0F0FB3</color>
+
+    <!-- Accent Color for Attention-->
+    <color name="yellow">#F9C712</color>
+
+    <!-- Secondary Accent Color-->
+    <color name="orange">#F5C842FF</color>
+</resources>

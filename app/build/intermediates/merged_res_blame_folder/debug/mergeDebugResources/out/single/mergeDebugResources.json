@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_login_page.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_menu.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/menu.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil2.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil2.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_onboard2.jpg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/onboard2.jpg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_fingerprint.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/fingerprint.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_rounded_button_new.xml.flat",
+        "source": "com.example.revix.app-main-6:/drawable/rounded_button_new.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/menu_bottam_navbar.xml.flat",
+        "source": "com.example.revix.app-main-6:/menu/bottam_navbar.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_recommend.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/recommend.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_image5.jpeg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/image5.jpeg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_logout_ic.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/logout_ic.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_backgroun1.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/backgroun1.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_back2.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/back2.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_download4.jpeg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/download4.jpeg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil_filter.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil_filter.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_rounded_button.xml.flat",
+        "source": "com.example.revix.app-main-6:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil6.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil6.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_onboarding_screen4.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_onboarding_screen4.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_onboarding_screen.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_onboarding_screen.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil1.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil1.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_search_bar_rounded.xml.flat",
+        "source": "com.example.revix.app-main-6:/drawable/search_bar_rounded.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_homepage.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/homepage.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_onboard1.jpg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/onboard1.jpg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_about_us.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/about_us.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_search_icon.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/search_icon.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_onboarding_screen2.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_onboarding_screen2.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_get_started.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/get_started.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_rounded_edittext.xml.flat",
+        "source": "com.example.revix.app-main-6:/drawable/rounded_edittext.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil5.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil5.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_parts.webp.flat",
+        "source": "com.example.revix.app-main-6:/drawable/parts.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_help_ic.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/help_ic.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_success.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_success.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.revix.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_about_us.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_arrow_forward.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/arrow_forward.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_register.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.revix.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_profile.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_success.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/success.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_security_ic.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/security_ic.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/font_carlito.xml.flat",
+        "source": "com.example.revix.app-main-6:/font/carlito.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_favourite_icon.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/favourite_icon.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_download.jpeg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/download.jpeg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_oil_one.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_oil_one.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil_products_banner.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil_products_banner.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil_store_offer.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil_store_offer.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_user_acc_ic.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/user_acc_ic.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil4.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil4.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_user.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/user.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_ic_add.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/ic_add.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_motor_oil.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_motor_oil.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_logo.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/font_abril_fatface.xml.flat",
+        "source": "com.example.revix.app-main-6:/font/abril_fatface.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_moil2.jpg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/moil2.jpg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_gradient_background.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/gradient_background.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_onboard4.jpg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/onboard4.jpg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_avatar.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/avatar.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/font_amiko.xml.flat",
+        "source": "com.example.revix.app-main-6:/font/amiko.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_download3.jpeg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/download3.jpeg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_partnav.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/partnav.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_paymnet.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_paymnet.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_forward_ic.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/forward_ic.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_images2.jpeg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/images2.jpeg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_launching_screen.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/launching_screen.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_cart.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_home_new.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_home_new.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_moil.jpg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/moil.jpg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_ic_remove.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/ic_remove.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_onboard3.jpg.flat",
+        "source": "com.example.revix.app-main-6:/drawable/onboard3.jpg"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.revix.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oil3.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oil3.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/layout_activity_onboarding_screen3.xml.flat",
+        "source": "com.example.revix.app-main-6:/layout/activity_onboarding_screen3.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.revix.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/drawable_oilnav.png.flat",
+        "source": "com.example.revix.app-main-6:/drawable/oilnav.png"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.revix.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.revix.app-debug-4:/font_abeezee.ttf.flat",
+        "source": "com.example.revix.app-main-6:/font/abeezee.ttf"
+    }
+]

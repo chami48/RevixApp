@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/amiko</item>
+        <item>@font/carlito</item>
+    </array>
+    <color name="black">#0A0A0A</color>
+    <color name="blue">#0F0FB3</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="orange">#F5C842FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#F9C712</color>
+    <string name="Cpassword">Password</string>
+    <string name="Cpasswordhint">Password</string>
+    <string name="Yourpaymentwassuccessful.">Your payment  was successful.</string>
+    <string name="add">+</string>
+    <string name="app_name">Revix</string>
+    <string name="back">Go Back</string>
+    <string name="buy">Buy Now</string>
+    <string name="buy1">Buy Now</string>
+    <string name="check">I Agree the policy</string>
+    <string name="cnamehint">Name</string>
+    <string name="createaccount">Create Account</string>
+    <string name="details">Mobil Super 0W-20 ensures superior wear protection, smoother acceleration, and improved engine efficiency with Heat-Activated Anti-Wear Molecules. 
+        •  Suitable for Leading branded vehicles and other newer Japanese ECO gasoline engines
+        •  Improved fuel economy by up to 2%
+•  Heat-activated anti-wear molecule provides high temperature wear protection while keeping your engine clean
+•  Provides better engine wear protection up to 65%</string>
+    <string name="email">Email Address</string>
+    <string name="emailhint">Email</string>
+    <string name="emailhint2">Phone Number</string>
+    <string name="get_started_button">Get Started</string>
+    <string name="item">1</string>
+    <string name="item1">Mobil Super  0W-20 - 3.5L RS.17,990.00</string>
+    <string name="item2">Mobil Super 1000 10W-30 - 4L RS.15,990.00 </string>
+    <string name="item3">Mobil Super 10W-40 - 4L RS.14,990.00 </string>
+    <string name="item4">Mobil Super 5W-30 - 4L RS.12,990.00 </string>
+    <string name="item5">Mobil Agri Super 15W-40 - 4L RS.30,220.00 </string>
+    <string name="item6">Mobil Delvac 15W-40 - 4L RS.25,990.00 </string>
+    <string name="login">Log In</string>
+    <string name="loginbtn">Login</string>
+    <string name="logout">Log Out</string>
+    <string name="mobil_engine_oil">MOBIL ENGINE OIL</string>
+    <string name="name">Name</string>
+    <string name="namehint">Enter user name</string>
+    <string name="number">Phone Number</string>
+    <string name="numberhint">Enter Your Number</string>
+    <string name="nxtbtn">Next</string>
+    <string name="nxtbtn2">Next</string>
+    <string name="nxtbtn3">Next</string>
+    <string name="onboard1detail">Revix helps users find the perfect engine oil for their vehicles by analyzing car models, engine types, and driving conditions with expert recommendations.</string>
+    <string name="onboard2details">Revix offers a wide range of genuine spare parts for all vehicle types, ensuring quality, compatibility, and reliability.</string>
+    <string name="onboard3details">Revix connects you with trusted mechanics for hassle-free car maintenance and repairs</string>
+    <string name="original_price">Rs. 600.00</string>
+    <string name="orloginwith">Or Login With</string>
+    <string name="password">Password</string>
+    <string name="passwordhint">  Enter your Password</string>
+    <string name="pay1">ADD TO CART</string>
+    <string name="pay2">Pay Now !</string>
+    <string name="payment">Make the payment</string>
+    <string name="price">Rs.550.00</string>
+    <string name="product_details">Product details</string>
+    <string name="product_sku">SKU: 88746</string>
+    <string name="product_title">Thermol Offer 10 package</string>
+    <string name="reduce">-</string>
+    <string name="repassword">Re-Enter Password</string>
+    <string name="repasswordhint">Re-Enter Password</string>
+    <string name="revix">REVIX</string>
+    <string name="revup">"Rev up with</string>
+    <string name="ride">your ride"</string>
+    <string name="savings_percentage">8%</string>
+    <string name="savings_text">You are saving: Rs.50 </string>
+    <string name="sendmail">A receipt for this purchase has been sent your email.</string>
+    <string name="signintext"> Already have an Account?</string>
+    <string name="signintext2"> Sign In here</string>
+    <string name="signupbtn">Sign Up</string>
+    <string name="signupbtn1">Sign Up</string>
+    <string name="skip">Skip</string>
+    <string name="skip2">Skip</string>
+    <string name="skip3">Skip</string>
+    <string name="skip4">Skip</string>
+    <string name="special">Vehicle-Specific Recommendations</string>
+    <string name="sub_header">Parts Journey</string>
+    <string name="subtitle_text">Your Vehicle</string>
+    <string name="success">Success !</string>
+    <string name="textView6">Enter your email and password to securely access your account and manage your Services</string>
+    <string name="thefix">the fix for</string>
+    <string name="title_text">Revolutionizing</string>
+    <string name="topic1">Oil Recommendation </string>
+    <string name="topic2">Spare parts</string>
+    <string name="topic3">Mechanic services</string>
+    <string name="total_price">TOTAL: Rs. 550</string>
+    <string name="totalcost">Total Cost LKR:</string>
+    <string name="username">User Name</string>
+    <string name="was_price">WAS: Rs. 600</string>
+    <style name="Base.Theme.Revix" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="RoundedCorners">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>  
+    </style>
+    <style name="Theme.Revix" parent="Base.Theme.Revix"/>
+</resources>
